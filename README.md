@@ -2,7 +2,7 @@
 
 We at [Hyper](https://www.hyper.no) are actively doing research in different
 areas of information technology. It's in our DNA to be curious about new trends
-and developments, as it's the only way to survive in our fast-changing world.
+and developments, as it's the only way to survive in a fast-changing industry.
 
 Every day we are testing new tools, building our own
 [open source projects](https://github.com/hyperoslo) and taking an active role
