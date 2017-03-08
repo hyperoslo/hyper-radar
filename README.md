@@ -89,10 +89,10 @@ and re-visit it on any day, at any time.
 
 ## 🦄 Inspiration
 
-Use (https://github.com/hyperoslo/hyper-radar/blob/master/Library/inspiration.md)
-to share links to all the interesting reads you've found on the internet:
-popular tech-related stories, articles and everything that can inspire and
-push us forward.
+Use [Inspiration](https://github.com/hyperoslo/hyper-radar/blob/master/Library/inspiration.md)
+document to share links to all the interesting reads you've found on the
+internet: popular tech-related stories, articles and everything that can
+inspire and push us forward.
 
 ## 🚀 Contributing
 
