@@ -64,7 +64,7 @@ what is not, without digging too deep into implementation details.
 We live to break down and solve complex tasks by creating practical,
 maintainable and scalable solutions. And this is the reason we love great
 development tools. But the right tools should be built upon the actual needs,
-not the other way around. There is no “silver bullet” that works in all the
+not the other way around. There is no "silver bullet" that works in all the
 cases, so it’s important to remember that the main goal is to find out the most
 elegant and efficient way for solving a given problem, at certain circumstances.
 
