@@ -30,8 +30,8 @@ tools.
 
 - [Start](https://github.com/hyperoslo/hyper-radar/issues/new)
 a discussion if you have something on your mind.
-- Choose an appropriate category and write a review if you want to put some
-light on any tech related topic.
+- Choose an appropriate category and write a review (summary) if you want to
+put some light on any tech related topic.
 
 ## 📖 Table of Contents
 
@@ -62,16 +62,16 @@ a "Master of None", but it helps to have an overview of what is possible and
 what is not, without digging too deep into implementation details.
 
 We live to break down and solve complex tasks by creating practical,
-maintainable, and scalable solutions. And this is the reason we love great
-development tools. But the right tools should be built around the actual needs,
-not the other way around. There is no "silver bullet", so remember that the
-main goal is to find out the most elegant and efficient way for solving a given
-problem, at certain circumstances.
+maintainable and scalable solutions. And this is the reason we love great
+development tools. But the right tools should be built upon the actual needs,
+not the other way around. There is no "silver bullet" that works in all the
+cases, so it’s important to remember that the main goal is to find out the most
+elegant and efficient way for solving a given problem, at certain circumstances.
 
 Share your experience to help in our community to stay sober and make the
 right decision when it comes to choosing a new library or programming
 language everyone around is talking about. Try to ask yourself the following
-questions when you write a review:
+questions when you write a summary:
 
 - What all the fuzz is about?
 - What is it for?
@@ -83,16 +83,16 @@ questions when you write a review:
 ## 🎤 Stage
 
 Have you recently been a speaker at a local meetup or at a conference?
-Open the [Stage](https://github.com/hyperoslo/hyper-radar/blob/master/Stage)
-folder and share your keynote, so everyone can enjoy the slides and re-visit it
-on any day, at any time.
+Open the [Stage](https://github.com/hyperoslo/hyper-radar/blob/master/Library/stage.md)
+document and share a link to your keynote, so everyone can enjoy the slides
+and re-visit it on any day, at any time.
 
 ## 🦄 Inspiration
 
-Use (https://github.com/hyperoslo/hyper-radar/blob/master/inspiration.md) to
-share links to all the interesting reads you've found on the internet: popular
-tech-related stories, articles and everything that can inspire and push us
-forward.
+Use [Inspiration](https://github.com/hyperoslo/hyper-radar/blob/master/Library/inspiration.md)
+document to share links to all the interesting reads you've found on the
+internet: popular tech-related stories, articles and everything that can
+inspire and push us forward.
 
 ## 🚀 Contributing
 
@@ -103,10 +103,11 @@ something cool? A library, side project or a homemade spacecraft? Go and share
 it with the world!
 
 - Create a pull request whenever you want to add new content and/or write a
-review of one or another topic.
+summary of one or another topic.
 - Choose the right category or create a new folder if it's something completely
 new.
-- Keep your reviews short and concrete.
+- Keep your summaries short and concrete. Remember that it's not an article,
+but just a brief, a detailed outline of a subject.
 - Examples are optional, but recommended.
 - Don't repeat existing topics, but feel free to update them with relevant
 details, comments and references.
