@@ -9,10 +9,10 @@ community to stay sober and make the right decision when it comes to
 choosing a new technology.
 
 There are a few things to keep in mind when you prepare your text:
-- Choose the right category or create a new folder
-(if it's something completely new).
+- Choose the right category or create a new folder (if it's something
+  completely new).
 - Don't repeat existing topics, but feel free to update them with relevant
-details, comments and references.
+  details, comments and references.
 - Keep your summaries short and concrete.
 - Examples are optional, but recommended.
 -->
