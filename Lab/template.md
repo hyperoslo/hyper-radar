@@ -4,13 +4,13 @@
 Have you built something cool? A library, side project or a homemade
 spacecraft? Then you are in the right place!
 
-Have you tried something promising? Share your experience to help in our
+Have you tried something promising? Share your experience to help our
 community to stay sober and make the right decision when it comes to
 choosing a new technology.
 
 There are a few things to keep in mind when you prepare your text:
-- Choose the right category or create a new folder (if it's something
-completely new).
+- Choose the right category or create a new folder
+(if it's something completely new).
 - Don't repeat existing topics, but feel free to update them with relevant
 details, comments and references.
 - Keep your summaries short and concrete.
@@ -29,7 +29,7 @@ Use the following sections to structure your text:
 * Demo: https://github.com/hyperoslo
 * Categories: NLP, Bot engines, ...
 * Platform: Web, mobile, ...
-* License:	MIT
+* License: MIT
 
 **Indicators:**
 - [x] Good documentation
