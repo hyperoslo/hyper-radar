@@ -98,7 +98,7 @@ forward.
 
 We would love you be involved in **Hyper Radar** evolution!
 Come up with new ideas, play with new tech, participate in discussions and
-don't be afraid to express your own views and opinions. Have your built
+don't be afraid to express your own views and opinions. Have you built
 something cool? A library, side project or a homemade spacecraft? Go and share
 it with the world!
 
